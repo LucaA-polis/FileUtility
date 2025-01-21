@@ -58,7 +58,7 @@ function UpperCase(){
 function populateListComuni(){
 const select = document.querySelector("#luogonascita");
 
-fetch("https://raw.githubusercontent.com/LPolis22/FileUtility/refs/heads/main/Comuni.json")
+fetch("https://cdn.jsdelivr.net/gh/LPolis22/FileUtility@main/Comuni.json")
   .then(response => {
     if (!response.ok) {
       throw new Error('Errore nel recupero del file JSON');
