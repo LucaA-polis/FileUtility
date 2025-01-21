@@ -100,7 +100,7 @@ function calcolaCodiceFiscale(){
 
 }
 
-  pulsante.addEventListener("click",calcolaCodiceFiscale);
+  pulsante.addEventListener("click",calcolaCodiceFiscale());
 
 function sendForm(){
     decodeAndSubmitForm();
