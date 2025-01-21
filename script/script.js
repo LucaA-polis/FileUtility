@@ -58,7 +58,7 @@ function UpperCase(){
 function populateListComuni(){
 const select = document.querySelector("#luogonascita");
 
-fetch("https://cdn.jsdelivr.net/gh/LPolis22/FileUtility@main/Comuni.json")
+fetch("https://raw.githubusercontent.com/LPolis22/FileUtility/refs/heads/main/Comuni.json")
   .then(response => {
     if (!response.ok) {
       throw new Error('Errore nel recupero del file JSON');
@@ -66,7 +66,6 @@ fetch("https://cdn.jsdelivr.net/gh/LPolis22/FileUtility@main/Comuni.json")
     return response.json();
   })
   .then(data => {
-         console.log(data)
     for(const key in data){
         const option = document.createElement("option");
         console.log(data[key].codice);
@@ -94,7 +93,7 @@ function calcolaCodiceFiscale(){
   if(!nome && !cognome && !codiceComune && !sesso && dataNascita !== null){
     cf = calcoloCodiceFiscale(nome,cognome,dataNascita,sesso,codiceComune);
   } else {
-    cf = "Errore, uno o pù dati mancanti"
+    cf = "Errore, uno o pù dati mancanti";
   }
   
   inputcf.value = cf;
@@ -114,5 +113,5 @@ function onWindowLoad() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  onWindowLoad()
+  onWindowLoad();
 });
