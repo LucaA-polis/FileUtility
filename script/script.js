@@ -68,6 +68,7 @@ fetch("https://raw.githubusercontent.com/LPolis22/FileUtility/refs/heads/main/Co
   .then(data => {
     for(const key in data){
         const option = document.createElement("option");
+        console.log(data[key].codice);
         option.value = data[key].codice;
         option.text = data[key].comune;
         select.appendChild(option);
@@ -108,7 +109,7 @@ function sendForm(){
 
 function onWindowLoad() {
     fillForm();
-    populateListComuni();
+    populateListComuni;
 }
 
 window.onload = onWindowLoad;
