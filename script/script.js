@@ -113,4 +113,6 @@ function onWindowLoad() {
     populateListComuni();
 }
 
-window.onload = onWindowLoad;
+document.addEventListener('DOMContentLoaded', function() {
+  onWindowLoad()
+});
