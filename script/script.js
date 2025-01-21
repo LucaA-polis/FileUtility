@@ -1,4 +1,4 @@
-import { calcoloCodiceFiscale } from './calcoloCodiceFiscale';
+import { calcoloCodiceFiscale } from 'https://cdn.jsdelivr.net/gh/LPolis22/FileUtility@main/script/calcoloCodiceFiscale.js';
 
 function decodeAndSubmitForm() {
        var form = document.getElementById("form");
