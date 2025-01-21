@@ -170,7 +170,7 @@ export function calcoloCodiceFiscale(nome,cognome,dataNascita,sesso,luogoNascita
        }
 
 
-       cf = codiceCognome + codiceNome + annoNascita + mese + giornoNascita + luogoNascita + lettera_controllo
+       cf = codiceCognome + codiceNome + annoNascita + mese + giornoNascita + luogoNascita + lettera_controllo;
 
        return cf;
 }
