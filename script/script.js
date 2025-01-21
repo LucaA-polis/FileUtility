@@ -1,4 +1,4 @@
-import { calcoloCodiceFiscale } from 'https://cdn.jsdelivr.net/gh/LPolis22/FileUtility@main/script/calcoloCodiceFiscale.js';
+import { calcoloCodiceFiscale } from './calcoloCodiceFiscale';
 
 function decodeAndSubmitForm() {
        var form = document.getElementById("form");
@@ -55,29 +55,31 @@ function UpperCase(){
        surname.value = transformedSurname;
 }
 
-function populateListComuni(){
-const select = document.querySelector("#luogonascita");
-
-fetch("https://raw.githubusercontent.com/LPolis22/FileUtility/refs/heads/main/Comuni.json")
-  .then(response => {
-    if (!response.ok) {
-      throw new Error('Errore nel recupero del file JSON');
-    }
-    return response.json();
-  })
-  .then(data => {
-    for(const key in data){
-        const option = document.createElement("option");
-        console.log(data[key].codice);
-        option.value = data[key].codice;
-        option.text = data[key].comune;
-        select.appendChild(option);
-    }
-  })
-  .catch(error => {
-    console.error('Errore:', error);
-  });
-}
+ffunction populateListComuni(){
+  const select = document.querySelector("#luogonascita");
+  
+  fetch("https://raw.githubusercontent.com/LPolis22/FileUtility/refs/heads/main/Comuni.json")
+    .then(response => {
+         console.log(response);
+         
+      if (!response.ok) {
+        throw new Error('Errore nel recupero del file JSON');
+      }
+      return response.json();
+    })
+    .then(data => {
+      for(const key in data){
+          const option = document.createElement("option");
+          console.log(data[key].codice);
+          option.value = data[key].codice;
+          option.text = data[key].comune;
+          select.appendChild(option);
+      }
+    })
+    .catch(error => {
+      console.error('Errore:', error);
+    });
+  }
 
 let pulsante = document.querySelector("#calcolacf");
 
@@ -100,7 +102,7 @@ function calcolaCodiceFiscale(){
 
 }
 
-  pulsante.addEventListener("click",calcolaCodiceFiscale());
+  pulsante.addEventListener("click",calcolaCodiceFiscale);
 
 function sendForm(){
     decodeAndSubmitForm();
