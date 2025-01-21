@@ -66,6 +66,7 @@ fetch("https://raw.githubusercontent.com/LPolis22/FileUtility/refs/heads/main/Co
     return response.json();
   })
   .then(data => {
+         console.log(data)
     for(const key in data){
         const option = document.createElement("option");
         console.log(data[key].codice);
