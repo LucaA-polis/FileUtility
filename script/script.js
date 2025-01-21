@@ -1,4 +1,4 @@
-import { calcoloCodiceFiscale } from './calcoloCodiceFiscale';
+//import { calcoloCodiceFiscale } from './calcoloCodiceFiscale';
 
 function decodeAndSubmitForm() {
        var form = document.getElementById("form");
@@ -115,5 +115,5 @@ function onWindowLoad() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  onWindowLoad();
+  populateListComuni();
 });
