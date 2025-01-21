@@ -109,7 +109,7 @@ function sendForm(){
 
 function onWindowLoad() {
     fillForm();
-    populateListComuni;
+    populateListComuni();
 }
 
 window.onload = onWindowLoad;
