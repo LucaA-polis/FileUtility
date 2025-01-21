@@ -1,4 +1,4 @@
-//import { calcoloCodiceFiscale } from './calcoloCodiceFiscale';
+// import { calcoloCodiceFiscale } from './calcoloCodiceFiscale';
 
 function decodeAndSubmitForm() {
        var form = document.getElementById("form");
@@ -19,7 +19,7 @@ function getQueryParams() {
            params[decodeURIComponent(match[1])] = decodeURIComponent(match[2].replace(/\+/g, " "));
        }
        return params;
-   }
+}
 
 function fillForm() {
        let params = getQueryParams();
@@ -55,7 +55,7 @@ function UpperCase(){
        surname.value = transformedSurname;
 }
 
-ffunction populateListComuni(){
+function populateListComuni(){
   const select = document.querySelector("#luogonascita");
   
   fetch("https://raw.githubusercontent.com/LPolis22/FileUtility/refs/heads/main/Comuni.json")
@@ -79,7 +79,7 @@ ffunction populateListComuni(){
     .catch(error => {
       console.error('Errore:', error);
     });
-  }
+}
 
 let pulsante = document.querySelector("#calcolacf");
 
@@ -102,18 +102,14 @@ function calcolaCodiceFiscale(){
 
 }
 
-  pulsante.addEventListener("click",calcolaCodiceFiscale);
+pulsante.addEventListener("click",calcolaCodiceFiscale);
 
 function sendForm(){
     decodeAndSubmitForm();
     UpperCase();
 }
 
-function onWindowLoad() {
-    fillForm();
-    populateListComuni();
-}
-
 document.addEventListener('DOMContentLoaded', function() {
-  populateListComuni();
+  fillForm();
+    populateListComuni();
 });
