@@ -108,7 +108,7 @@ function sendForm(){
 }
 
 let submitButton = document.querySelector("#submit");
-submitButton.addEventListener("click",sendForm());
+submitButton.addEventListener("click",sendForm);
 
 
 document.addEventListener('DOMContentLoaded', function() {
