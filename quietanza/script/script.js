@@ -36,11 +36,11 @@ function UpperCase(){
        //Codice fiscale atleta UppertCase
        var cfInput = document.querySelector("#cfatleta");
        cfInput.value = cfInput.value.toUpperCase();
-       
+
        //Codice fiscale genitore UppertCase
        var cfInput = document.querySelector("#cfgenitore");
        cfInput.value = cfInput.value.toUpperCase();
-       
+
        //Iniziale Nome Maiuscola
        var name = document.querySelector("#nomegenitore");
        var nameText = name.value;
@@ -48,7 +48,7 @@ function UpperCase(){
            return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
        }).join(' ');
        name.value = transformedName;
-       
+
        //Iniziale Cognome Maiuscola
        var surname = document.querySelector("#cognomegenitore");
        var surnameText = surname.value;
@@ -110,8 +110,8 @@ function sendForm(){
   UpperCase();
 }
 
-let submitButton = document.querySelector("#submit");
-submitButton.addEventListener("click",sendForm());
+let form = document.querySelector("#form");
+form.addEventListener("submit",sendForm);
 
 
 document.addEventListener('DOMContentLoaded', function() {
