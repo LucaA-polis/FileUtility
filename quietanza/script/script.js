@@ -34,20 +34,23 @@ function fillForm() {
 
 function UpperCase(){
        //Codice fiscale atleta UppertCase
-       var cfInput = document.getElementById("cfatleta");
+       var cfInput = document.querySelector("#cfatleta");
        cfInput.value = cfInput.value.toUpperCase();
+       
        //Codice fiscale genitore UppertCase
-       var cfInput = document.getElementById("cfgenitore");
+       var cfInput = document.querySelector("#cfgenitore");
        cfInput.value = cfInput.value.toUpperCase();
+       
        //Iniziale Nome Maiuscola
-       var name = document.getElementById("nomegenitore");
+       var name = document.querySelector("#nomegenitore");
        var nameText = name.value;
        var transformedName = nameText.split(' ').map(function(word) {
            return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
        }).join(' ');
        name.value = transformedName;
+       
        //Iniziale Cognome Maiuscola
-       var surname = document.getElementById("cognomegenitore");
+       var surname = document.querySelector("#cognomegenitore");
        var surnameText = surname.value;
        var transformedSurname = surnameText.split(' ').map(function(word) {
           return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
