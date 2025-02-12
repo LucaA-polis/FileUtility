@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+       box-sizing: border-box;
+   }
+
+body{
+    font-family: "Poppins", serif;
+}
+
+#headeratleta, #headergenitore{
+    color: #001f60;
+}
+
+input[type="text"], input[type="submit"],input[type="date"], input[type="email"], #calcolacf, #selectsesso, #luogonascita, #confermaInvio, #controlla{
+    text-transform: capitalize;
+    border-radius: 30px;
+}
+
+input[type="email"]{
+    text-transform: lowercase;
+}
+
+#atleta {
+       display: flex;
+       flex-direction: row;
+       padding-top: 10px;
+}
+
+#cfatleta, #cfgenitore, #luogonascita{
+    text-transform: uppercase;
+}
+
+#calcolacf {
+    width: 100%; 
+    background-color: #fce300;  
+    color: #001f60; 
+}
+
+#colored{
+    color: red;
+}
+
+.my-4{
+    border: 2px solid;
+    color: #00b5e2;
+}
+
+#submit{
+    background-color: #00b5e2;
+}
+#submit:hover{
+    background-color: #fce300;
+    color: #001f60;
+    font-weight: bold;
+}
