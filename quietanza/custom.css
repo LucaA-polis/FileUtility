@@ -12,7 +12,7 @@ body{
     color: #001f60;
 }
 
-input[type="text"], input[type="submit"],input[type="date"], input[type="email"], #calcolacf, #selectsesso, #luogonascita{
+input[type="text"], input[type="submit"],input[type="date"], input[type="email"], #calcolacf, #selectsesso, #luogonascita, #annoriferimento{
     text-transform: capitalize;
     border-radius: 30px;
 }
