@@ -1,4 +1,4 @@
-import { calcoloCodiceFiscale } from './calcoloCodiceFiscale.js';
+import { calcoloCodiceFiscale } from './calcoloCodFisc.js';
 
 function decodeAndSubmitForm() {
        var form = document.getElementById("form");
