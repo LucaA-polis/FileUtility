@@ -11,7 +11,7 @@ export async function calcoloCodiceFiscale(nome,cognome,dataNascita,sesso,luogoN
               giornoNascita = String(data.getDate()).padStart(2, '0');
        }
 
-       var codici_mesi = ['A', 'B', 'C', 'D', 'G', 'H', 'L', 'M', 'P', 'R', 'S', 'T'];
+       var codici_mesi = ['A', 'B', 'C', 'D', 'E', 'H', 'L', 'M', 'P', 'R', 'S', 'T'];
        var mese = codici_mesi[data.getMonth()];
 
        const consonantiCognome = cognome.match(/[^aeiouAEIOU]/g) || [];
