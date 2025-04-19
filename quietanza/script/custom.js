@@ -94,7 +94,8 @@ async function calcolaCodiceFiscale(){
   let cf;
 
   if(nome !== "" && cognome !== "" && luogoNascita !== "" && sesso !== "" && dataNascita !== null){
-    cf = await calcoloCodiceFiscale(nome,cognome,dataNascita,sesso,luogoNascita);    
+    cf = await calcoloCodiceFiscale(nome,cognome,dataNascita,sesso,luogoNascita);
+      console.log(cf)
     if(cf.includes("undefined")){
       cf = "Comune errato!";
       inputcf.style.color = "red";
