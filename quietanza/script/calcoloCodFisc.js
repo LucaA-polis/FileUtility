@@ -102,14 +102,14 @@ export async function calcoloCodiceFiscale(nome,cognome,dataNascita,sesso,luogoN
 
 async function getCodiceComune(comuneNascita) {
     try {
-        const response = await fetch("https://cdn.jsdelivr.net/gh/LucaA-polis/FileUtility@refs/heads/main/ComuniCompleti.json");
+        const response = await fetch("https://cdn.jsdelivr.net/gh/LPolis22/FileUtility@refs/heads/main/quietanza/codiciComuni.json");
         if (!response.ok) {
             throw new Error('Errore nel recupero del file JSON');
         }
 
         const data = await response.json();
         for (const key in data) {
-            if (data[key].denominazione === comuneNascita) {
+            if (data[key].comune === comuneNascita) {
                 return data[key].codice;
             }
         }
