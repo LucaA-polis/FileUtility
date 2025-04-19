@@ -61,7 +61,7 @@ function UpperCase(){
 function populateListComuni(){
   const datalist = document.querySelector("#listacomuni");
   
-  fetch("https://cdn.jsdelivr.net/gh/LPolis22/FileUtility@refs/heads/main/quietanza/codiciComuni.json")
+  fetch("https://cdn.jsdelivr.net/gh/LucaA-polis/FileUtility@refs/heads/main/ComuniCompleti.json")
     .then(response => {
       if (!response.ok) {
         throw new Error('Errore nel recupero del file JSON');
