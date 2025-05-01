@@ -1,0 +1,626 @@
+[
+  {
+    "Id": "01tR200000CuockIAB",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000CuqQ2IAJ",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000CuryoIAB",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000CutHVIAZ",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000CuubiIAB",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000CuxBOIAZ",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000Cv0qnIAB",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000Cv0vdIAB",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000Cv0xFIAR",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000Cv10TIAR",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000Cv15JIAR",
+    "Description": "Felpa Rappresentanza",
+    "Name": "Felpa Rappresentanza - XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000Cv1N3IAJ",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000Cv1QHIAZ",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000Cv1RtIAJ",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000Cv1WjIAJ",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000Cv1ZxIAJ",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000Cv1bZIAR",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000Cv1dBIAR",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000Cv1enIAB",
+    "Description": "Pantaloni Rappresentanza",
+    "Name": "Pantaloni Rappresentanza - XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000Cv1mrIAB",
+    "Description": "Borsone",
+    "Name": "Borsone",
+    "SGP2_Size__c": "UNICA"
+  },
+  {
+    "Id": "01tR200000Cv1rhIAB",
+    "Description": "Zaino",
+    "Name": "Zaino",
+    "SGP2_Size__c": "UNICA"
+  },
+  {
+    "Id": "01tR200000CvEaUIAV",
+    "Description": "Calzettoni",
+    "Name": "Calzettoni - MAN",
+    "SGP2_Size__c": "MAN"
+  },
+  {
+    "Id": "01tR200000CvFJaIAN",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000CvKeFIAV",
+    "Description": "Calzettoni",
+    "Name": "Calzettoni - BOY",
+    "SGP2_Size__c": "BOY"
+  },
+  {
+    "Id": "01tR200000CvOTMIA3",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000CvOUxIAN",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000CvPUEIA3",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000CvQLTIA3",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000CvR1OIAV",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000CvS8kIAF",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000CvSgcIAF",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000CvT6QIAV",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000CvTT2IAN",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000CvTb4IAF",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000CvU8wIAF",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000CvUFNIA3",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000CvUGzIAN",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000CvULpIAN",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000CvUTtIAN",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000CvUX7IAN",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000CvUYjIAN",
+    "Description": "Pantaloncini Calcio",
+    "Name": "Pantaloncini Calcio - XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000CvUfBIAV",
+    "Description": "Calzettoni",
+    "Name": "Calzettoni - KID",
+    "SGP2_Size__c": "KID"
+  },
+  {
+    "Id": "01tR200000CvUiPIAV",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000CvUk1IAF",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000CvUorIAF",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000CvUs5IAF",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000CvUvJIAV",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000CvUwvIAF",
+    "Description": "Pantaloncini Pallavolo",
+    "Name": "Pantaloncini Pallavolo - XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000CvWViIAN",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000CvZv0IAF",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000CvaJCIAZ",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000CvaO2IAJ",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000CvbGsIAJ",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000CvbVNIAZ",
+    "Description": "Maglietta Allenamento",
+    "Name": "Maglietta Allenamento - XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000Cvbf4IAB",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000CvbtZIAR",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000CvbwnIAB",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000CvbyPIAR",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000Cvc9hIAB",
+    "Description": "Pantaloncini Portiere",
+    "Name": "Pantaloncini Portiere - XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000D2PdzIAF",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA- Taglia XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000D2Q71IAF",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000D2QLWIA3",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000D2Uk6IAF",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000D2VeZIAV",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000D2YSlIAN",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000D2ZewIAF",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000D2axaIAB",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000D2bf9IAB",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000D2cjGIAR",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000D2d4FIAR",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000D2fikIAB",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000D2gBmIAJ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000D2iTiIAJ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000D2iWvIAJ",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000D2iYXIAZ",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000D2iblIAB",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000D2iezIAB",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000D2igbIAB",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000D2iiDIAR",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000D2in3IAB",
+    "Description": "Divisa Calcio AZZURRA",
+    "Name": "Divisa Calcio AZZURRA - Taglia XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000D2j3BIAR",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000D2j6PIAR",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000D2j6QIAR",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000D2j9dIAB",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000D2jCrIAJ",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000D2jETIAZ",
+    "Description": "Divisa Portiere",
+    "Name": "Divisa Portiere - Taglia XXL",
+    "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "01tR200000D2jHjIAJ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000D2kC9IAJ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000D2kDlIAJ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000D2kKDIAZ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000D2kSHIAZ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000D2kTtIAJ",
+    "Description": "Divisa Volley",
+    "Name": "Divisa Volley - Taglia XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000D2kbxIAB",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000D2kk1IAB",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000D2knFIAR",
+    "Description": "Divisa Libero",
+    "Name": "Divisa Libero - Taglia L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000GVX8BIAX",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia L",
+    "SGP2_Size__c": "L"
+  },
+  {
+    "Id": "01tR200000GVYaYIAX",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia M",
+    "SGP2_Size__c": "M"
+  },
+  {
+    "Id": "01tR200000GVcHZIA1",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+    "Id": "01tR200000GVf7KIAT",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia XL",
+    "SGP2_Size__c": "XL"
+  },
+  {
+    "Id": "01tR200000GVijWIAT",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia XXXL",
+    "SGP2_Size__c": "XXXL"
+  },
+  {
+    "Id": "01tR200000GVqCPIA1",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "01tR200000GVqIrIAL",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia XS",
+    "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "01tR200000GVqVlIAL",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia S",
+    "SGP2_Size__c": "S"
+  },
+  {
+    "Id": "01tR200000GVqnVIAT",
+    "Description": "Divisa Calcio GIALLA",
+    "Name": "Divisa Calcio GIALLA - Taglia XXL",
+    "SGP2_Size__c": "XXL"
+  }
+]

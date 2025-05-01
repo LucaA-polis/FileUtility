@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "01tR200000JvotCIAR",
+    "Description": "Pallone Calcio",
+    "Name": "Pallone Calcio - 3",
+    "SGP2_Size__c": "3"
+  },
+  {
+    "Id": "01tR200000JvwQwIAJ",
+    "Description": "Pallone Calcio",
+    "Name": "Pallone Calcio - 4",
+    "SGP2_Size__c": "4"
+  },
+  {
+    "Id": "01tR200000Jw0UXIAZ",
+    "Description": "Pallone Calcio",
+    "Name": "Pallone Calcio - 5",
+    "SGP2_Size__c": "5"
+  }
+]
