@@ -16,9 +16,9 @@ function populateProductList() {
         let jsonfile;
 
         if (type === "Richiesta Vestiario") {
-            jsonfile = "jsonfiles/productlist.json";
+            jsonfile = atob("aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0x1Y2FBLXBvbGlzL0ZpbGVVdGlsaXR5QG1haW4vbWF0ZXJpYWxlL3Byb2R1Y3RsaXN0Lmpzb24=");
         } else if (type === "Richiesta Materiale Squadra") {
-            jsonfile = "jsonfiles/equipmentlist.json";
+            jsonfile = atob("aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL0x1Y2FBLXBvbGlzL0ZpbGVVdGlsaXR5QG1haW4vbWF0ZXJpYWxlL2VxdWlwbWVudGxpc3QuanNvbg==");
         } else {
             return;
         }
