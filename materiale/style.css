@@ -10,6 +10,8 @@ body{
 
 #sectionheader{
     color: #001f60;
+    font-weight: bold;
+    font-style: italic;
 }
 
 input[type="text"], input[type="submit"],input[type="date"], input[type="email"], #addprodotto, #prodotto, #submit, #sport, #richiestatype, #quantity{
