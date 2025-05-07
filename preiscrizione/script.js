@@ -28,9 +28,9 @@ function fillForm() {
 }
 
 function UpperCase(){
-    /*//Codice fiscale atleta UpperCase
-     const cfInput = document.querySelector("#00NR2000002BNL7");
-     cfInput.value = cfInput.value.toUpperCase();*/
+    //Codice fiscale atleta UpperCase
+    const cfInput = document.querySelector('[id="00NR2000002BNL7"]');
+    cfInput.value = cfInput.value.toUpperCase();
 
     //Iniziale Nome Maiuscola
     const name = document.querySelector("#first_name");
