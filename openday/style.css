@@ -12,6 +12,10 @@ body{
     padding: 3px;
 }
 
+label{
+    text-align: left;
+}
+
 #sectionheader{
     color: #001f60;
 }
