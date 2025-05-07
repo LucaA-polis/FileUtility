@@ -76,12 +76,12 @@ const confirmBtn = document.querySelector("#confirmbtn");
 const noConfirmBtn = document.querySelector("#noconfirmbtn");
 
 confirmBtn.addEventListener('click', function() {
-    document.querySelector("#00NR2000008wjBR").value = "Confirmed";
+    document.querySelector('[id="00NR2000008wjBR"]').value = "Confirmed";
     sendForm();
 });
 
 noConfirmBtn.addEventListener('click', function() {
-    document.querySelector("#00NR2000008wjBR").value = "Refused";
+    document.querySelector('[id="00NR2000008wjBR"]').value = "Refused";
     sendForm();
 });
 
