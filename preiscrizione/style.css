@@ -25,6 +25,11 @@ input[type="email"]{
     text-transform: lowercase;
 }
 
+label {
+    text-align: left;
+    display: block;
+}
+
 #atleta {
     display: flex;
     flex-direction: row;

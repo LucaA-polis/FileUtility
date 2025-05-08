@@ -12,21 +12,22 @@ body{
     padding: 3px;
 }
 
-label{
-    text-align: left;
-}
-
 #sectionheader{
     color: #001f60;
 }
-input[type="text"],input[type="submit"], input[type="number"], .form-select{
+input[type="text"],input[type="submit"], input[type="number"],.form-select{
     text-transform: capitalize;
     border-radius: 30px;
 }
 
-input[type="email"]{
+input[type="email"],input[type="date"]{
     text-transform: lowercase;
     border-radius: 30px;
+}
+
+label {
+    text-align: left;
+    display: block;
 }
 
 #atleta {
