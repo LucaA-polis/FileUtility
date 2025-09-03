@@ -74,7 +74,7 @@ function addSelectedProduct() {
     const team = document.querySelector("#team").value.trim();
     const richiestaType = document.querySelector("#richiestatype");
     const table = document.querySelector("#tablebody");
-    const quantityField = document.querySelector("#quantity");
+    //const quantityField = document.querySelector("#quantity");
     const errormessage = document.querySelector("#errormessage");
 
     let richiestoper;
@@ -100,21 +100,21 @@ function addSelectedProduct() {
     if (richiestaType.value === "Richiesta Vestiario") {
         cell1.textContent = nomeatleta;
         quantita = "1";
-        quantityField.readOnly = true;
-        quantityField.value = quantita;
+        //quantityField.readOnly = true;
+        //quantityField.value = quantita;
         cell3.textContent = quantita;
         richiestoper = nomeatleta;
-    } else if (richiestaType.value === "Richiesta Materiale Squadra") {
+    } /*else if (richiestaType.value === "Richiesta Materiale Squadra") {
         cell1.textContent = team;
         quantita = quantityField.value;
         cell3.textContent = quantita;
         quantityField.readOnly = false;
         richiestoper = team;
-    }
+    }*/
 
     cell2.textContent = selectedProduct;
 
-    if (richiestoper === "" || selectedProduct === "Seleziona un prodotto" || quantityField.value === "") {
+    if (richiestoper === "" || selectedProduct === "Seleziona un prodotto" /*|| quantityField.value === ""*/) {
         errormessage.innerHTML = "<span id=\"colored\">ATTENZIONE: Non sono stati indicati il nome del tesserato, la squadra, il prodotto o la quantità</span>";
     } else {
         richiestaValue = `${richiestoper} --> ${selectedProduct} (${quantita})\n`;
@@ -129,7 +129,7 @@ function addSelectedProduct() {
             table.appendChild(row);
             selectedElement.push(richiestaValue);
             countId++;
-            quantityField.value = "";
+            //quantityField.value = "";
         } else {
             errormessage.innerHTML = `<span id="colored">ATTENZIONE: è già stata aggiunta la quantità massima del prodotto ${selectedProduct.toUpperCase()} per il tesserato ${richiestoper.toUpperCase()}</span>`;
         }
