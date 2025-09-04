@@ -626,55 +626,55 @@
   {
     "Id": "",
     "Description": "KIT Prima Iscrizione",
-    "Name": "KIT Prima Iscrizione XXXS",
+    "Name": "KIT Prima Iscrizione - Taglia XXXS",
     "SGP2_Size__c": "XXXS"
   },
   {
     "Id": "",
     "Description": "KIT Prima Iscrizione",
-    "Name": "KIT Prima Iscrizione XXS",
+    "Name": "KIT Prima Iscrizione - Taglia XXS",
     "SGP2_Size__c": "XXS"
   },
   {
   "Id": "",
   "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione XS",
+  "Name": "KIT Prima Iscrizione - Taglia XS",
   "SGP2_Size__c": "XS"
   },
   {
     "Id": "",
     "Description": "KIT Prima Iscrizione",
-    "Name": "KIT Prima Iscrizione S",
+    "Name": "KIT Prima Iscrizione - Taglia S",
     "SGP2_Size__c": "S"
   },
   {
   "Id": "",
   "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione M",
+  "Name": "KIT Prima Iscrizione - Taglia M",
   "SGP2_Size__c": "M"
   },
   {
   "Id": "",
   "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione L",
+  "Name": "KIT Prima Iscrizione - Taglia L",
   "SGP2_Size__c": "L"
   },
   {
   "Id": "",
   "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione XL",
+  "Name": "KIT Prima Iscrizione - Taglia XL",
   "SGP2_Size__c": "XL"
   },
   {
   "Id": "",
   "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione XXL",
+  "Name": "KIT Prima Iscrizione - Taglia XXL",
   "SGP2_Size__c": "XXL"
   },
   {
   "Id": "",
   "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione XXXL",
+  "Name": "KIT Prima Iscrizione - Taglia XXXL",
   "SGP2_Size__c": "XXXL"
   }
 ]
