@@ -622,5 +622,59 @@
     "Description": "Divisa Calcio GIALLA",
     "Name": "Divisa Calcio GIALLA - Taglia XXL",
     "SGP2_Size__c": "XXL"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione XXXS",
+    "SGP2_Size__c": "XXXS"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione XXS",
+    "SGP2_Size__c": "XXS"
+  },
+  {
+  "Id": "",
+  "Description": "KIT Prima Iscrizione",
+  "Name": "KIT Prima Iscrizione XS",
+  "SGP2_Size__c": "XS"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione S",
+    "SGP2_Size__c": "S"
+  },
+  {
+  "Id": "",
+  "Description": "KIT Prima Iscrizione",
+  "Name": "KIT Prima Iscrizione M",
+  "SGP2_Size__c": "M"
+  },
+  {
+  "Id": "",
+  "Description": "KIT Prima Iscrizione",
+  "Name": "KIT Prima Iscrizione L",
+  "SGP2_Size__c": "L"
+  },
+  {
+  "Id": "",
+  "Description": "KIT Prima Iscrizione",
+  "Name": "KIT Prima Iscrizione XL",
+  "SGP2_Size__c": "XL"
+  },
+  {
+  "Id": "",
+  "Description": "KIT Prima Iscrizione",
+  "Name": "KIT Prima Iscrizione XXL",
+  "SGP2_Size__c": "XXL"
+  },
+  {
+  "Id": "",
+  "Description": "KIT Prima Iscrizione",
+  "Name": "KIT Prima Iscrizione XXXL",
+  "SGP2_Size__c": "XXXL"
   }
 ]
