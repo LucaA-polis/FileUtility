@@ -33,8 +33,8 @@ function addNewMember() {
     row.id = "row" + countId.toString();
 
     const cell1 = document.createElement('td');
-    const cell2 = document.createElement('td');
-    const cell3 = document.createElement('td');
+    /*const cell2 = document.createElement('td');
+    const cell3 = document.createElement('td');*/
     const cell4 = document.createElement('td');
 
     const buttonRemove = document.createElement('button');
@@ -47,8 +47,8 @@ function addNewMember() {
     cell4.appendChild(buttonRemove);
 
     cell1.textContent = nomeAtleta;
-    cell2.textContent = birthDateFormatted;
-    cell3.textContent = "Sì";
+    /*cell2.textContent = birthDateFormatted;
+    cell3.textContent = "Sì";*/
 
     if (nomeAtleta === "" || birthDateFormatted === "" || !consent) {
         errormessage.innerHTML = "<span id=\"colored\">ATTENZIONE: Uno o più dati mancanti!</span>";
@@ -62,8 +62,8 @@ function addNewMember() {
         errormessage.innerHTML = "";
 
         row.appendChild(cell1);
-        row.appendChild(cell2);
-        row.appendChild(cell3);
+        /*row.appendChild(cell2);
+        row.appendChild(cell3);*/
         row.appendChild(cell4);
         table.appendChild(row);
 
