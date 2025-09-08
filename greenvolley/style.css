@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 * {
-       box-sizing: border-box;
-   }
+    box-sizing: border-box;
+}
 
 body{
     font-family: "Poppins", serif;
@@ -24,15 +24,15 @@ input[type="email"]{
 }
 
 #atleta {
-       display: flex;
-       flex-direction: row;
-       padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
 }
 
 #addmember {
-    width: 100%; 
-    background-color: #fce300;  
-    color: #001f60; 
+    width: 100%;
+    background-color: #fce300;
+    color: #001f60;
 }
 
 #terms{
@@ -40,6 +40,24 @@ input[type="email"]{
     border: 1px;
     border-color: #001f60;
 }
+
+#membertable {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 600px; /* utile se vuoi forzare lo scroll */
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+#divtable {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 
 #colored{
     color: red;
