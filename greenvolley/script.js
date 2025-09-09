@@ -12,7 +12,7 @@ function decodeAndSubmitForm() {
 }
 
 function addNewMember() {
-    const nomeAtleta = document.querySelector("#nome").value.trim();
+    const nomeAtleta = capitalizeWords(document.querySelector("#nome").value.trim());
     const birthDate = document.querySelector("#datanascita").value.trim();
     const consent = document.querySelector("#terms").checked;
     const table = document.querySelector("#tablebody");
@@ -141,7 +141,7 @@ function formatMemberTable() {
 
     // intestazioni
     let result = "";
-    result += "Nome e Cognome | Data di Nascita | Consenso\n";
+    result += "Nome e Cognome,Data di Nascita,Consenso\n";
 
     // righe
     rows.forEach(row => {
@@ -149,28 +149,24 @@ function formatMemberTable() {
         const data = row.children[1]?.textContent.trim();
         const consenso = row.children[2]?.textContent.trim();
 
-        // padding per allineare
-        const nomePadded = nome.padEnd(18, " ");
-        const dataPadded = data.padEnd(15, " ");
-        const consensoPadded = consenso.padEnd(8, " ");
-
-        result += `${nomePadded}| ${dataPadded}| ${consensoPadded}\n`;
+        result += `${nome},${data},${consenso}\n`;
     });
 
     return result.trim();
 }
 
+function capitalizeWords(str) {
+    return str.split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
+}
 
 function setFields() {
-    const team = document.querySelector("#team").value.trim();
     const subjectfield = document.querySelector("#subject");
-    subjectfield.value = `Iscrizione Green Volley - ${team}`;
+    subjectfield.value = `Iscrizione Green Volley`;
 
     const referente = document.querySelector("#nomeatleta").value.trim();
     const contactName = document.querySelector("#name");
     contactName.value = referente;
 }
-
 
 function populateDescriptionField() {
     const descriptionfield = document.querySelector("#description");
