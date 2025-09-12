@@ -1,20 +1,146 @@
 [
   {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia XXXS",
+    "SGP2_Size__c": "XXXS",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia XXS",
+    "SGP2_Size__c": "XXS",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia XS",
+    "SGP2_Size__c": "XS",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia S",
+    "SGP2_Size__c": "S",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia M",
+    "SGP2_Size__c": "M",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia L",
+    "SGP2_Size__c": "L",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia XL",
+    "SGP2_Size__c": "XL",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia XXL",
+    "SGP2_Size__c": "XXL",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "KIT Prima Iscrizione",
+    "Name": "KIT Prima Iscrizione - Taglia XXXL",
+    "SGP2_Size__c": "XXXL",
+    "Price": "€ 0,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia XXXS",
+    "SGP2_Size__c": "XXXS",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia XXS",
+    "SGP2_Size__c": "XXS",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia XS",
+    "SGP2_Size__c": "XS",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia S",
+    "SGP2_Size__c": "S",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia M",
+    "SGP2_Size__c": "M",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia L",
+    "SGP2_Size__c": "L",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia XL",
+    "SGP2_Size__c": "XL",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia XXL",
+    "SGP2_Size__c": "XXL",
+    "Price": "€ 50,00"
+  },
+  {
+    "Id": "",
+    "Description": "Tuta di Reppresentanza",
+    "Name": "Tuta di Reppresentanza - Taglia XXXL",
+    "SGP2_Size__c": "XXXL",
+    "Price": "€ 50,00"
+  },
+  {
     "Id": "01tR200000CuockIAB",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - XS",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - XS",
     "SGP2_Size__c": "XS"
   },
   {
     "Id": "01tR200000CuqQ2IAJ",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - XL",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - XL",
     "SGP2_Size__c": "XL"
   },
   {
     "Id": "01tR200000CuryoIAB",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - XXXS",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - XXXS",
     "SGP2_Size__c": "XXXS"
   },
   {
@@ -31,38 +157,38 @@
   },
   {
     "Id": "01tR200000CuxBOIAZ",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - XXXL",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - XXXL",
     "SGP2_Size__c": "XXXL"
   },
   {
     "Id": "01tR200000Cv0qnIAB",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - XXS",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - XXS",
     "SGP2_Size__c": "XXS"
   },
   {
     "Id": "01tR200000Cv0vdIAB",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - S",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - S",
     "SGP2_Size__c": "S"
   },
   {
     "Id": "01tR200000Cv0xFIAR",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - M",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - M",
     "SGP2_Size__c": "M"
   },
   {
     "Id": "01tR200000Cv10TIAR",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - L",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - L",
     "SGP2_Size__c": "L"
   },
   {
     "Id": "01tR200000Cv15JIAR",
-    "Description": "Felpa Rappresentanza",
-    "Name": "Felpa Rappresentanza - XXL",
+    "Description": "Giacca Rappresentanza",
+    "Name": "Giacca Rappresentanza - XXL",
     "SGP2_Size__c": "XXL"
   },
   {
@@ -113,18 +239,18 @@
     "Name": "Pantaloni Rappresentanza - XXXL",
     "SGP2_Size__c": "XXXL"
   },
-  {
+  /*{
     "Id": "01tR200000Cv1mrIAB",
     "Description": "Borsone",
     "Name": "Borsone",
     "SGP2_Size__c": "UNICA"
-  },
-  {
+  },*/
+  /*{
     "Id": "01tR200000Cv1rhIAB",
     "Description": "Zaino",
     "Name": "Zaino",
     "SGP2_Size__c": "UNICA"
-  },
+  },*/
   {
     "Id": "01tR200000CvEaUIAV",
     "Description": "Calzettoni",
@@ -623,58 +749,5 @@
     "Name": "Divisa Calcio GIALLA - Taglia XXL",
     "SGP2_Size__c": "XXL"
   },
-  {
-    "Id": "",
-    "Description": "KIT Prima Iscrizione",
-    "Name": "KIT Prima Iscrizione - Taglia XXXS",
-    "SGP2_Size__c": "XXXS"
-  },
-  {
-    "Id": "",
-    "Description": "KIT Prima Iscrizione",
-    "Name": "KIT Prima Iscrizione - Taglia XXS",
-    "SGP2_Size__c": "XXS"
-  },
-  {
-  "Id": "",
-  "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione - Taglia XS",
-  "SGP2_Size__c": "XS"
-  },
-  {
-    "Id": "",
-    "Description": "KIT Prima Iscrizione",
-    "Name": "KIT Prima Iscrizione - Taglia S",
-    "SGP2_Size__c": "S"
-  },
-  {
-  "Id": "",
-  "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione - Taglia M",
-  "SGP2_Size__c": "M"
-  },
-  {
-  "Id": "",
-  "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione - Taglia L",
-  "SGP2_Size__c": "L"
-  },
-  {
-  "Id": "",
-  "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione - Taglia XL",
-  "SGP2_Size__c": "XL"
-  },
-  {
-  "Id": "",
-  "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione - Taglia XXL",
-  "SGP2_Size__c": "XXL"
-  },
-  {
-  "Id": "",
-  "Description": "KIT Prima Iscrizione",
-  "Name": "KIT Prima Iscrizione - Taglia XXXL",
-  "SGP2_Size__c": "XXXL"
-  }
+
 ]
