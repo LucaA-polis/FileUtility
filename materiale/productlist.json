@@ -239,18 +239,6 @@
     "Name": "Pantaloni Rappresentanza - XXXL",
     "SGP2_Size__c": "XXXL"
   },
-  /*{
-    "Id": "01tR200000Cv1mrIAB",
-    "Description": "Borsone",
-    "Name": "Borsone",
-    "SGP2_Size__c": "UNICA"
-  },*/
-  /*{
-    "Id": "01tR200000Cv1rhIAB",
-    "Description": "Zaino",
-    "Name": "Zaino",
-    "SGP2_Size__c": "UNICA"
-  },*/
   {
     "Id": "01tR200000CvEaUIAV",
     "Description": "Calzettoni",
@@ -748,6 +736,5 @@
     "Description": "Divisa Calcio GIALLA",
     "Name": "Divisa Calcio GIALLA - Taglia XXL",
     "SGP2_Size__c": "XXL"
-  },
-
+  }
 ]
