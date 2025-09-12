@@ -138,18 +138,33 @@ function populateReferenteList() {
 
 function formatMemberTable() {
     const rows = document.querySelectorAll("#membertable tbody tr");
+    const team = capitalizeWords(document.querySelector('[id="00NR200000AxqhZ"]').value);
+    const referenteName = document.querySelector("#nomeatleta").value;
+    const emailField = document.querySelector("#email").value;
+    const cellulareField = document.querySelector("#phone").value;
 
     // intestazioni
     let result = "";
-    result += "Nome e Cognome,Data di Nascita,Consenso\n";
+    result += "Team,Name,Birthdate,Consent,Referente,Email,Cellulare\n";
 
     // righe
     rows.forEach(row => {
         const nome = row.children[0]?.textContent.trim();
         const data = row.children[1]?.textContent.trim();
         const consenso = row.children[2]?.textContent.trim();
+        let referente = "";
+        let email = "";
+        let cellulare = "";
 
-        result += `${nome},${data},${consenso}\n`;
+        if (nome === referenteName){
+            referente = "Sì";
+            email = emailField;
+            cellulare = cellulareField;
+        } else {
+            referente = "No";
+        }
+
+        result += `${team},${nome},${data},${consenso},${referente},${email},${cellulare}\n`;
     });
 
     return result.trim();
