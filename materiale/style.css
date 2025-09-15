@@ -16,7 +16,7 @@ body{
 
 input[type="text"], input[type="submit"],input[type="date"], input[type="email"], #addprodotto, #prodotto, #submit, #sport, #richiestatype, #quantity{
     text-transform: capitalize;
-    border-radius: 30px;
+    border-radius: 10px;
 }
 
 input[type="email"]{
@@ -29,11 +29,35 @@ input[type="email"]{
     padding-top: 10px;
 }
 
-#addprodotto {
+#addmember {
     width: 100%;
     background-color: #fce300;
     color: #001f60;
 }
+
+#terms{
+    transform: scale(2);
+    border: 1px;
+    border-color: #001f60;
+}
+
+#membertable {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 600px; /* utile se vuoi forzare lo scroll */
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+#divtable {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 
 #colored{
     color: red;
