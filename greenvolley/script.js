@@ -56,8 +56,8 @@ function addNewMember() {
         errormessage.innerHTML = "<span id=\"colored\">ATTENZIONE: Sono stati aggiunti il numero massimo di atleti!</span>";
     } else if (checkIfAlreadyAdded(nomeAtleta + "-" + birthDateFormatted)) {
         errormessage.innerHTML = "<span id=\"colored\">ATTENZIONE: Atleta già inserito!</span>";
-    } else if (!isMaggiorenne(birthDate)) {
-        errormessage.innerHTML = "<span id=\"colored\">ATTENZIONE: L'atleta inserito deve essere maggiorenne!</span>";
+    /*} else if (!isMaggiorenne(birthDate)) {
+        errormessage.innerHTML = "<span id=\"colored\">ATTENZIONE: L'atleta inserito deve essere maggiorenne!</span>";*/
     } else {
         errormessage.innerHTML = "";
 
