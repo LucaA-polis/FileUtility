@@ -59428,5 +59428,1355 @@
         "provincia": "Sud Sardegna",
         "sigla_provincia": "SU",
         "codice": "M026"
-    }
+    },
+  {
+    "codice": "Z100",
+    "denominazione": "ALBANIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z101",
+    "denominazione": "ANDORRA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z102",
+    "denominazione": "AUSTRIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z103",
+    "denominazione": "BELGIO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z104",
+    "denominazione": "BULGARIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z105",
+    "denominazione": "CECOSLOVACCHIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z106",
+    "denominazione": "CITTA' DEL VATICANO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z107",
+    "denominazione": "DANIMARCA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z108",
+    "denominazione": "FAER OER (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z109",
+    "denominazione": "FINLANDIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z110",
+    "denominazione": "FRANCIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z111",
+    "denominazione": "GERMANIA REPUBBLICA DEMOCRATICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z112",
+    "denominazione": "GERMANIA REPUBBLICA FEDERALE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z113",
+    "denominazione": "GIBILTERRA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z114",
+    "denominazione": "GRAN BRETAGNA E IRLANDA DEL NORD",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z115",
+    "denominazione": "GRECIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z116",
+    "denominazione": "IRLANDA = EIRE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z117",
+    "denominazione": "ISLANDA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z118",
+    "denominazione": "IUGOSLAVIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z119",
+    "denominazione": "LIECHTENSTEIN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z120",
+    "denominazione": "LUSSEMBURGO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z121",
+    "denominazione": "MALTA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z122",
+    "denominazione": "MAN (ISOLA)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z123",
+    "denominazione": "MONACO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z124",
+    "denominazione": "NORMANNE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z125",
+    "denominazione": "NORVEGIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z126",
+    "denominazione": "PAESI BASSI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z127",
+    "denominazione": "POLONIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z128",
+    "denominazione": "PORTOGALLO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z129",
+    "denominazione": "ROMANIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z130",
+    "denominazione": "SAN MARINO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z131",
+    "denominazione": "SPAGNA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z132",
+    "denominazione": "SVEZIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z133",
+    "denominazione": "SVIZZERA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z134",
+    "denominazione": "UNGHERIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z135",
+    "denominazione": "URSS",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z136",
+    "denominazione": "GEORGIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z137",
+    "denominazione": "ARMENIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z138",
+    "denominazione": "UCRAINA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z139",
+    "denominazione": "BIELORUSSIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z140",
+    "denominazione": "MOLDAVIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z141",
+    "denominazione": "AZERBAIGIAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z144",
+    "denominazione": "ESTONIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z145",
+    "denominazione": "LETTONIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z146",
+    "denominazione": "LITUANIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z148",
+    "denominazione": "MACEDONIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z149",
+    "denominazione": "CROAZIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z150",
+    "denominazione": "SLOVENIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z153",
+    "denominazione": "BOSNIA ED ERZEGOVINA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z154",
+    "denominazione": "RUSSIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z155",
+    "denominazione": "SLOVACCHIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z156",
+    "denominazione": "CECA REPUBBLICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z200",
+    "denominazione": "AFGHANISTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z201",
+    "denominazione": "ARABIA MERIDIONALE FEDERAZIONE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z202",
+    "denominazione": "ARABIA MERIDIONALE PROTETTORATO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z203",
+    "denominazione": "ARABIA SAUDITA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z204",
+    "denominazione": "BAHREIN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z205",
+    "denominazione": "BHUTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z206",
+    "denominazione": "BIRMANIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z207",
+    "denominazione": "BRUNEI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z208",
+    "denominazione": "CAMBOGIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z209",
+    "denominazione": "SRY LANKA O CEYLON",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z210",
+    "denominazione": "CINA REPUBBLICA POPOLARE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z211",
+    "denominazione": "CIPRO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z212",
+    "denominazione": "COCOS (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z213",
+    "denominazione": "COREA DEL SUD",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z214",
+    "denominazione": "COREA DEL NORD",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z215",
+    "denominazione": "EMIRATI ARABI UNITI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z216",
+    "denominazione": "FILIPPINE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z217",
+    "denominazione": "TAIWAN O FORMOSA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z218",
+    "denominazione": "GAZA TERRITORIO DI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z219",
+    "denominazione": "GIAPPONE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z220",
+    "denominazione": "GIORDANIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z221",
+    "denominazione": "HONG KONG",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z222",
+    "denominazione": "INDIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z223",
+    "denominazione": "INDONESIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z224",
+    "denominazione": "IRAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z225",
+    "denominazione": "IRAQ",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z226",
+    "denominazione": "ISRAELE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z227",
+    "denominazione": "KUWAIT",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z228",
+    "denominazione": "LAOS",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z229",
+    "denominazione": "LIBANO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z230",
+    "denominazione": "MALAYSIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z231",
+    "denominazione": "MACAO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z232",
+    "denominazione": "MALDIVE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z233",
+    "denominazione": "MONGOLIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z234",
+    "denominazione": "NEPAL",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z235",
+    "denominazione": "OMAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z236",
+    "denominazione": "PAKISTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z237",
+    "denominazione": "QATAR",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z238",
+    "denominazione": "RYUKYU (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z239",
+    "denominazione": "SIKKIM",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z240",
+    "denominazione": "SIRIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z241",
+    "denominazione": "THAILANDIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z242",
+    "denominazione": "TIMOR (ISOLA)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z243",
+    "denominazione": "TURCHIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z244",
+    "denominazione": "VIETNAM DEL SUD",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z245",
+    "denominazione": "VIETNAM DEL NORD",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z246",
+    "denominazione": "YEMEN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z247",
+    "denominazione": "MALAYSIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z248",
+    "denominazione": "SINGAPORE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z249",
+    "denominazione": "BANGLADESH",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z251",
+    "denominazione": "VIETNAM",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z252",
+    "denominazione": "ARMENIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z253",
+    "denominazione": "AZERBAIGIAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z254",
+    "denominazione": "GEORGIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z255",
+    "denominazione": "KAZAKISTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z256",
+    "denominazione": "KIRGHIZISTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z257",
+    "denominazione": "TAGIKISTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z258",
+    "denominazione": "TURKMENISTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z259",
+    "denominazione": "UZBEKISTAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z300",
+    "denominazione": "NAMIBIA O AFRICA DEL SUD-OVEST",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z301",
+    "denominazione": "ALGERIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z302",
+    "denominazione": "ANGOLA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z303",
+    "denominazione": "BASUTOLAND-SUD AFRICA BRITANNICO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z304",
+    "denominazione": "BECIUANIA-SUD AFRICA BRITANNICO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z305",
+    "denominazione": "BURUNDI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z306",
+    "denominazione": "CAMERUN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z307",
+    "denominazione": "CAPO VERDE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z308",
+    "denominazione": "CENTRAFRICANA REPUBBLICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z309",
+    "denominazione": "CIAD",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z310",
+    "denominazione": "COMORE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z311",
+    "denominazione": "CONGO BRAZZAVILLE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z312",
+    "denominazione": "ZAIRE EX CONGO LEOPOLDVILLE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z313",
+    "denominazione": "COSTA D'AVORIO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z314",
+    "denominazione": "DAHOMEY O BENIN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z315",
+    "denominazione": "ETIOPIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z316",
+    "denominazione": "GABON",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z317",
+    "denominazione": "GAMBIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z318",
+    "denominazione": "GHANA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z319",
+    "denominazione": "GUINEA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z320",
+    "denominazione": "GUINEA BISSAU",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z321",
+    "denominazione": "GUINEA EQUATORIALE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z322",
+    "denominazione": "KENYA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z323",
+    "denominazione": "IFNI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z324",
+    "denominazione": "LA REUNION (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z325",
+    "denominazione": "LIBERIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z326",
+    "denominazione": "LIBIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z327",
+    "denominazione": "MADAGASCAR",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z328",
+    "denominazione": "MALAWI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z329",
+    "denominazione": "MALI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z330",
+    "denominazione": "MAROCCO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z331",
+    "denominazione": "MAURITANIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z332",
+    "denominazione": "MAURIZIO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z333",
+    "denominazione": "MOZAMBICO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z334",
+    "denominazione": "NIGER",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z335",
+    "denominazione": "NIGERIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z336",
+    "denominazione": "EGITTO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z337",
+    "denominazione": "ZIMBABWE EX RHODESIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z338",
+    "denominazione": "RUANDA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z339",
+    "denominazione": "SAHARA SPAGNOLO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z340",
+    "denominazione": "SANT'ELENA ISOLA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z341",
+    "denominazione": "SAO TOME' E PRINCIPE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z342",
+    "denominazione": "SEICELLE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z343",
+    "denominazione": "SENEGAL",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z344",
+    "denominazione": "SIERRA LEONE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z345",
+    "denominazione": "SOMALIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z346",
+    "denominazione": "SOMALIA FRANCESE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z347",
+    "denominazione": "SUDAFRICANA REPUBBLICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z348",
+    "denominazione": "SUDAN",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z349",
+    "denominazione": "SWAZILAND",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z350",
+    "denominazione": "TANGANICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z351",
+    "denominazione": "TOGO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z352",
+    "denominazione": "TUNISIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z353",
+    "denominazione": "UGANDA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z354",
+    "denominazione": "VOLTA O ALTOVOLTA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z355",
+    "denominazione": "ZAMBIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z356",
+    "denominazione": "ZANZIBAR",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z357",
+    "denominazione": "TANZANIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z358",
+    "denominazione": "BOTSWANA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z359",
+    "denominazione": "LESOTHO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z361",
+    "denominazione": "GIBUTI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z364",
+    "denominazione": "BOPHUTHATSWANA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z367",
+    "denominazione": "CISKEI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z368",
+    "denominazione": "ERITREA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z400",
+    "denominazione": "BERMUDE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z401",
+    "denominazione": "CANADA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z402",
+    "denominazione": "GROENLANDIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z403",
+    "denominazione": "SAINT PIERRE ET MIQUELON(ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z404",
+    "denominazione": "STATI UNITI D'AMERICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z500",
+    "denominazione": "ANTILLE BRITANNICHE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z501",
+    "denominazione": "ANTILLE OLANDESI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z502",
+    "denominazione": "BAHAMA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z503",
+    "denominazione": "COSTA RICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z504",
+    "denominazione": "CUBA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z505",
+    "denominazione": "DOMINICANA REPUBLICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z506",
+    "denominazione": "EL SALVADOR",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z507",
+    "denominazione": "GIAMAICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z508",
+    "denominazione": "GUADALUPA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z509",
+    "denominazione": "GUATEMALA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z510",
+    "denominazione": "HAITI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z511",
+    "denominazione": "HONDURAS",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z512",
+    "denominazione": "BELIZE EX HONDURAS BRITANNICO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z513",
+    "denominazione": "MARTINICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z514",
+    "denominazione": "MESSICO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z515",
+    "denominazione": "NICARAGUA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z516",
+    "denominazione": "PANAMA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z517",
+    "denominazione": "PANAMA ZONA DEL CANALE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z518",
+    "denominazione": "PUERTO RICO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z519",
+    "denominazione": "TURKS E CAICOS (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z520",
+    "denominazione": "VERGINI AMERICANE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z522",
+    "denominazione": "BARBADOS",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z524",
+    "denominazione": "GRENADA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z527",
+    "denominazione": "SAINT LUCIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z528",
+    "denominazione": "SAINT VINCENT E GRANADINE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z529",
+    "denominazione": "ANGUILLA (ISOLA)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z530",
+    "denominazione": "CAYMAN (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z531",
+    "denominazione": "MONTSERRAT",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z532",
+    "denominazione": "ANTIGUA E BARBUDA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z533",
+    "denominazione": "SAN KITTS E NEVIS",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z600",
+    "denominazione": "ARGENTINA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z601",
+    "denominazione": "BOLIVIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z602",
+    "denominazione": "BRASILE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z603",
+    "denominazione": "CILE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z604",
+    "denominazione": "COLOMBIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z605",
+    "denominazione": "ECUADOR",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z606",
+    "denominazione": "GUAYANA BRITANNICA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z607",
+    "denominazione": "GUAYANA FRANCESE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z608",
+    "denominazione": "SURINAME EX GUAYANA OLANDESE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z609",
+    "denominazione": "MALVINE O FALKLAND (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z610",
+    "denominazione": "PARAGUAY",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z611",
+    "denominazione": "PERU'",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z612",
+    "denominazione": "TRINIDAD E TOBAGO",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z613",
+    "denominazione": "URUGUAY",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z614",
+    "denominazione": "VENEZUELA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z700",
+    "denominazione": "AUSTRALIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z701",
+    "denominazione": "CAROLINE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z702",
+    "denominazione": "CHRISTMAS (ISOLA)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z703",
+    "denominazione": "COOK (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z704",
+    "denominazione": "FIGI O VITI (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z705",
+    "denominazione": "GILBERT E ELLICE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z706",
+    "denominazione": "GUAM (ISOLA)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z707",
+    "denominazione": "IRIAN OCCIDENTALE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z708",
+    "denominazione": "MACQUARIE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z709",
+    "denominazione": "MARCUS (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z710",
+    "denominazione": "MARIANNE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z711",
+    "denominazione": "MARSHALL (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z712",
+    "denominazione": "MIDWAY (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z713",
+    "denominazione": "NAURU",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z714",
+    "denominazione": "NIUE O SAVAGE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z715",
+    "denominazione": "NORFOLK (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z716",
+    "denominazione": "NUOVA CALEDONIA E DIPENDENZE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z717",
+    "denominazione": "NUOVE EBRIDI CONDOM. FRANCO-INGL.",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z718",
+    "denominazione": "NUOVA GUINEA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z719",
+    "denominazione": "NUOVA ZELANDA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z720",
+    "denominazione": "PAPUASIA",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z721",
+    "denominazione": "PASQUA (ISOLA)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z722",
+    "denominazione": "PITCARIN E DIPENDENZE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z723",
+    "denominazione": "POLINESIA FRANCESE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z724",
+    "denominazione": "SALOMONE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z725",
+    "denominazione": "SAMOA AMERICANE (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z726",
+    "denominazione": "SAMOA (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z727",
+    "denominazione": "TOKELAU O ISOLE DELL'UNIONE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z728",
+    "denominazione": "TONGA O ISOLE DEGLI AMICI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z729",
+    "denominazione": "WALLIS E FUTUNA (ISOLE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z731",
+    "denominazione": "KIRIBATI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z732",
+    "denominazione": "TUVALU",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z733",
+    "denominazione": "VANUATU",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z734",
+    "denominazione": "PALAU",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z735",
+    "denominazione": "MICRONESIA STATI FEDERATI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z800",
+    "denominazione": "DIPENDENZE CANADESI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z801",
+    "denominazione": "DIPENDENZE NORVEGESI (ARTICHE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z802",
+    "denominazione": "DIPENDENZE RUSSE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z900",
+    "denominazione": "DIPENDENZE AUSTRALIANE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z901",
+    "denominazione": "DIPENDENZE BRITANNICHE",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z902",
+    "denominazione": "DIPENDENZE FRANCESI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z903",
+    "denominazione": "DIPENDENZE NEOZELANDESI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z904",
+    "denominazione": "DIPENDEZE NORVEGESI (ANTARTICHE)",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z905",
+    "denominazione": "DIPENDEZE STATUNITENSI",
+    "provincia": "EE"
+  },
+  {
+    "codice": "Z906",
+    "denominazione": "DIPENDENZE SUDAFRICANE",
+    "provincia": "EE"
+  }
 ]
