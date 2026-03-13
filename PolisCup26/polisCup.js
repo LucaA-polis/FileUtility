@@ -143,9 +143,9 @@ function showCheckbox() {
 
 function populateCategorie() {
     const categorie = {
-        CA7: ["--", "Big Small", "Under 9", "Under 10", "Under 11", "Under 12", "Under 13", "Under 17", "Open Femminile"],
-        CAL: ["--", "Under 15", "Allievi"],
-        PVO: ["--", "Under 11", "Under 12", "Ragazze", "Allieve", "Under 17", "Juiores"]
+        CA7: ["", "Big Small", "Under 9", "Under 10", "Under 11", "Under 12", "Under 13", "Under 17", "Open Femminile"],
+        CAL: ["", "Under 15", "Allievi"],
+        PVO: ["", "Under 11", "Under 12", "Ragazze", "Allieve", "Under 17", "Juiores"]
     };
 
     // Funzione per popolare il select categorie
