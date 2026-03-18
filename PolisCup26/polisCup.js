@@ -55,10 +55,10 @@ function setFields(){
 function setDescription(){
     const descriptionField = document.querySelector("#description");
 
-        descriptionField.value += "\n---------------\nEVENTUALI INDISPONIBILITA': \n";
-        for (let i = 0; i < datesArray.length; i++) {
-            descriptionField.value += datesArray[i] + "\n";
-        }
+    descriptionField.value += "\n---------------\nEVENTUALI INDISPONIBILITA': \n";
+    for (let i = 0; i < datesArray.length; i++) {
+        descriptionField.value += datesArray[i] + "\n";
+    }
 
 
 }
@@ -134,6 +134,21 @@ function showCheckbox() {
     } else {
         existingE?.parentElement.remove();
         existingF?.parentElement.remove();
+    }
+}
+
+function openFromEmail(){
+
+    const campi = ["company", "00NR2000001vzhJ"];
+
+    if (document.querySelector('#openemail').value === "true") {
+        campi.forEach(id => {
+            const el = document.getElementById(id);
+            if (el) {
+                el.readOnly = true;
+                el.classList.add("readonly-style");
+            }
+        });
     }
 }
 
@@ -264,4 +279,5 @@ form.addEventListener("submit", function (e) {
 document.addEventListener("DOMContentLoaded", () => {
     fillForm();
     populateCategorie();
+    openFromEmail();
 });

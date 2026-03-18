@@ -66,8 +66,13 @@ input[type="email"]{
 #membertable {
     border-collapse: collapse;
     width: 100%;
-    min-width: 600px; /* utile se vuoi forzare lo scroll */
+    min-width: 600px;
 }
+
+.readonly-style {
+    background-color: #e0e0e0;
+}
+
 
 th, td {
     border: 1px solid #ccc;
