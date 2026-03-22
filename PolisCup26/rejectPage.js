@@ -27,10 +27,38 @@ function fillForm() {
     }
 }
 
+function setFields(){
+    const sport = document.querySelector('[id="00NR2000009GyW5"]').value;
+    const categoria = document.querySelector('[id="00NR200000DGj89"]').value;
+    const type = document.querySelector('#type');
+    const subject = document.querySelector('#subject');
+
+    if (sport === 'PVO' && (categoria === 'Under 10' || categoria === 'Top Junior' || categoria === 'Open Femminile')) {
+        type.value = "GREEN VOLLEY";
+        subject.value = "Rifiuto Iscrizione Green Volley";
+    } else {
+        type.value = "POLIS CUP";
+        subject.value = "Rifiuto Iscrizione Polis Cup";
+    }
+}
+
+function setImg(){
+    const sport = document.querySelector('[id="00NR2000009GyW5"]').value;
+    const categoria = document.querySelector('[id="00NR200000DGj89"]').value;
+
+    if (sport === 'PVO' && (categoria === 'Under 10' || categoria === 'Top Junior' || categoria === 'Open Femminile')) {
+        document.querySelector('#logo').src = "https://www.sgp2seregno.it/documenti/poliscup/2026/Loghi/GreenVolley26.svg";
+    } else {
+        document.querySelector('#logo').src = "https://www.sgp2seregno.it/documenti/poliscup/2026/Loghi/PolisCup26.svg";
+    }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     fillForm();
+    setImg();
 });
 
 form.addEventListener("submit", function (e) {
+    setFields();
     decodeAndSubmitForm();
 });
