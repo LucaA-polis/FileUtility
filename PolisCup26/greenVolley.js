@@ -29,7 +29,7 @@ function setFields(){
 
     subjectField.value = "Iscrizione Green Volley - " + categoriaSelect.value;
     caseTypeField.value = "GREEN VOLLEY";
-    sportValue.vlaue = "PVO";
+    sportValue.value = "PVO";
 
 
 }
