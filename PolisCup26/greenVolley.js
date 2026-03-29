@@ -25,9 +25,11 @@ function setFields(){
 
     const subjectField = document.querySelector("#subject");
     const caseTypeField = document.querySelector("#type");
+    const sportValue = document.querySelector('[id="00NR2000009GyW5"]');
 
     subjectField.value = "Iscrizione Green Volley - " + categoriaSelect.value;
     caseTypeField.value = "GREEN VOLLEY";
+    sportValue.vlaue = "PVO";
 
 
 }
