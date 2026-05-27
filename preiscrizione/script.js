@@ -47,7 +47,7 @@ function UpperCase(){
 
 function openFromEmail(){
 
-    const campi = ["company", "00NR2000001vzhJ"];
+    const campi = ["last_name", "00NR2000002BNL7","first_name"];
 
     if (document.querySelector('#openemail').value === "true") {
         campi.forEach(id => {

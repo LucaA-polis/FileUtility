@@ -25,11 +25,6 @@ input[type="email"]{
     text-transform: lowercase;
 }
 
-label {
-    text-align: left;
-    display: block;
-}
-
 #atleta {
     display: flex;
     flex-direction: row;
@@ -50,14 +45,6 @@ label {
     width: 100%;
 }
 
-/*
-#submit{
-    background-color: #00b5e2;
-    color: white;
-    font-weight: bold;
+.readonly-style {
+    background-color: #e0e0e0;
 }
-#submit:hover{
-    background-color: #fce300;
-    color: #001f60;
-    font-weight: bold;
-}*/
