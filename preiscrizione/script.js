@@ -1,44 +1,44 @@
 //Pre Iscrizione
 function decodeAndSubmitForm() {
-    const form = document.getElementById("form");
-    form.action = atob("aHR0cHM6Ly93ZWJ0by5zYWxlc2ZvcmNlLmNvbS9zZXJ2bGV0L3NlcnZsZXQuV2ViVG9MZWFkP2VuY29kaW5nPVVURi04Jm9yZ0lkPTAwRDA2MDAwMDAxYTlDOA==");
-    return true;
+       const form = document.getElementById("form");
+       form.action = atob("aHR0cHM6Ly93ZWJ0by5zYWxlc2ZvcmNlLmNvbS9zZXJ2bGV0L3NlcnZsZXQuV2ViVG9MZWFkP2VuY29kaW5nPVVURi04Jm9yZ0lkPTAwRDA2MDAwMDAxYTlDOA==");
+       return true;
 }
 
 function getQueryParams() {
-    let params = {};
-    let queryString = window.location.search.substring(1);
-    let regex = /([^&=]+)=([^&]*)/g;
-    let match;
+       let params = {};
+       let queryString = window.location.search.substring(1);
+       let regex = /([^&=]+)=([^&]*)/g;
+       let match;
 
-    while (match = regex.exec(queryString)) {
-        params[decodeURIComponent(match[1])] = decodeURIComponent(match[2].replace(/\+/g, " "));
-    }
-    return params;
+       while (match = regex.exec(queryString)) {
+           params[decodeURIComponent(match[1])] = decodeURIComponent(match[2].replace(/\+/g, " "));
+       }
+       return params;
 }
 
 function fillForm() {
-    let params = getQueryParams();
-    for (let key in params) {
-        let element = document.getElementsByName(key)[0];
-        if (element) {
-            element.value = params[key];
-        }
-    }
+       let params = getQueryParams();
+       for (let key in params) {
+           let element = document.getElementsByName(key)[0];
+           if (element) {
+               element.value = params[key];
+           }
+       }
 }
 
 function UpperCase(){
-    //Codice fiscale atleta UpperCase
+   //Codice fiscale atleta UpperCase
     const cfInput = document.querySelector('[id="00NR2000002BNL7"]');
     cfInput.value = cfInput.value.toUpperCase();
 
-    //Iniziale Nome Maiuscola
+   //Iniziale Nome Maiuscola
     const name = document.querySelector("#first_name");
     name.value = name.value.split(' ').map(
         word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
     ).join(' ');
 
-    //Iniziale Cognome Maiuscola
+   //Iniziale Cognome Maiuscola
     const surname = document.querySelector("#last_name");
     surname.value = surname.value.split(' ').map(
         word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
@@ -111,6 +111,6 @@ function sendForm() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-    fillForm();
-    openFromEmail();
+  fillForm();
+  openFromEmail();
 });
