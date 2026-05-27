@@ -45,6 +45,22 @@ function UpperCase(){
     ).join(' ');
 }
 
+function openFromEmail(){
+
+    const campi = ["company", "00NR2000001vzhJ"];
+
+    if (document.querySelector('#openemail').value === "true") {
+        campi.forEach(id => {
+            const el = document.getElementById(id);
+            if (el) {
+                el.readOnly = true;
+                el.disabled = true;
+                el.classList.add("readonly-style");
+            }
+        });
+    }
+}
+
 function checkEmailsMatch() {
     const email = document.querySelector("#email");
     const confirmEmail = document.querySelector("#confirmEmail");
@@ -97,4 +113,5 @@ function sendForm() {
 
 document.addEventListener('DOMContentLoaded', function() {
     fillForm();
+    openFromEmail();
 });
