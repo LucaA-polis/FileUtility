@@ -54,7 +54,6 @@ function openFromEmail(){
             const el = document.getElementById(id);
             if (el) {
                 el.readOnly = true;
-                el.disabled = true;
                 el.classList.add("readonly-style");
             }
         });
